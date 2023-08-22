@@ -1,0 +1,56 @@
+{
+  "id": "cdz",
+  "title": "CDZ",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "swade-core-rules-ptbr",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Meu cenário adaptado de cavaleiros do zodíaco para swade",
+  "authors": [
+    {
+      "name": "PedroStreameiro",
+      "url": "@dadosedestinosrpg"
+    }
+  ],
+  "packs": [
+    {
+      "name": "ator",
+      "label": "Ator",
+      "path": "packs/ator",
+      "type": "Actor",
+      "system": "swade",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "item",
+      "label": "Item",
+      "path": "packs/item",
+      "type": "Item",
+      "system": "swade",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

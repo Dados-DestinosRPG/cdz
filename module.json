@@ -6,9 +6,6 @@
     "minimum": "11",
     "verified": "11"
   },
-  "url": "https://github.com/pedrualves/cdz/",
-  "manifest": "https://raw.githubusercontent.com/pedrualves/cdz/main/module.json",
-  "download": "https://github.com/pedrualves/cdz/blob/main/cdz.zip",
   "relationships": {
     "requires": [
       {
@@ -29,7 +26,7 @@
   "authors": [
     {
       "name": "PedroStreameiro",
-      "url": "@dadosedestinosrpg"
+      "url": "https://github.com/pedrualves/cdz"
     }
   ],
   "packs": [
@@ -55,5 +52,6 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/pedrualves/cdz"
 }

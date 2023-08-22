@@ -6,6 +6,9 @@
     "minimum": "11",
     "verified": "11"
   },
+  "url": "https://github.com/pedrualves/cdz/",
+  "manifest": "https://raw.githubusercontent.com/pedrualves/cdz/main/module.json",
+  "download": "https://github.com/pedrualves/cdz/cdz.zip",
   "relationships": {
     "requires": [
       {

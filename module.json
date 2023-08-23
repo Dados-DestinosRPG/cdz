@@ -56,6 +56,7 @@
     }
   ],
   "url": "https://github.com/pedrualves/cdz",
-  "manifest": "https://raw.githubusercontent.com/pedrualves/cdz/main/module.json",
-  "download": "https://github.com/pedrualves/cdz/blob/main/cdz.zip"
+  "manifest": "https://github.com/pedrualves/cdz/releases/download/1.0.0/module.json",
+  "download": "https://github.com/pedrualves/cdz/archive/refs/tags/1.0.0.zip"
+
 }

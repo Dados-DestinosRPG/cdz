@@ -1,6 +1,8 @@
 {
   "id": "cdz",
+  "name": "cdz",
   "title": "CDZ",
+  "description": "Meu cenario adaptado de cavaleiros do zodiaco para swade",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
@@ -22,7 +24,7 @@
       }
     ]
   },
-  "description": "Meu cenário adaptado de cavaleiros do zodíaco para swade",
+  
   "authors": [
     {
       "name": "PedroStreameiro",
